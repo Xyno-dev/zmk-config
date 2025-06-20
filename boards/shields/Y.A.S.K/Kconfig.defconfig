@@ -1,0 +1,7 @@
+if SHIELD_YASK
+
+# Name must be less than 16 characters long!
+config ZMK_YASK
+    default "Y.A.S.K"
+
+endif

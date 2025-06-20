@@ -1,0 +1,9 @@
+file_format: "1"
+id: yask
+name: Y.A.S.K
+type: shield
+url: https://github.com/xyno-dev/y.a.s.k/
+requires: [pro_micro]
+features:
+  - keys
+  - knob
