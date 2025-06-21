@@ -20,5 +20,5 @@
 ---
 
 include:
-  - board: pro_micro
+  - board: nrfmicro_13
     shield: yask
