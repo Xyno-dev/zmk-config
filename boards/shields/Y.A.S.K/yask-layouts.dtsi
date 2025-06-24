@@ -60,8 +60,8 @@
 
     left_encoder: encoder_left {
         compatible = "alps,ec11";
-        a-gpios = <PIN_0 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
-        b-gpios = <PIN_1 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+        a-gpios = <0 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+        b-gpios = <1 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
         steps = <24>;
         status = "disabled";
     };
